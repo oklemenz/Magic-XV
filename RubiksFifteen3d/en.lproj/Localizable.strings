@@ -1,0 +1,40 @@
+/* 
+  Localizable.strings
+  RubiksFifteen3d
+
+  Created by Klemenz, Oliver on 06.12.12.
+
+*/
+"Shuffle" = "Shuffle";
+"Solve" = "Solve";
+"GC" = "GC";
+"Game Center" = "Game Center";
+"FX" = "FX";
+"Sound" = "Sound";
+"Gyro" = "Gyro";
+"Camera" = "Camera";
+"Stop" = "Stop";
+"Congratulation" = "Congratulation";
+"You solved Magic Fifteen in" = "You solved Magic Fifteen in";
+"You solved the back side of Magic Fifteen in" = "You solved the back side of Magic Fifteen in";
+"Hour" = "hour";
+"Hours" = "hours";
+"Minute" = "minute";
+"Minutes" = "minutes";
+"Second" = "second";
+"Seconds" = "seconds";
+"OK" = "OK";
+"Cancel" = "Cancel";
+"Yes" = "Yes";
+"No" = "No";
+"Game Center" = "Game Center";
+"Error connecting to Game Center!" = "Error connecting to Game Center!";
+"In-App purchase failed!" = "In-App purchase failed!";
+"The donation was not successful." = "The donation was not successful.";
+"Do you like the game \"Magic Fifteen\"?" = "Do you like the game \"Magic Fifteen\"?";
+"Help to make the game better with a donation!" = "Help to make the game better with a donation!";
+"I'd like to donate" = "I'd like to donate";
+"Remind me later" = "Remind me later";
+"Don't ask me again" = "Don't ask me again";
+"Please select:" = "Please select:";
+"Thank you for your donation!" = "Thank you for your donation!";

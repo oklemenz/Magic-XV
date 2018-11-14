@@ -1,0 +1,8 @@
+/* 
+  InfoPlist.strings
+  RubiksFifteen3d
+
+  Created by Oliver Klemenz on 24.09.16.
+
+*/
+"NSCameraUsageDescription" = "Verwendet als Spielhintergrund";

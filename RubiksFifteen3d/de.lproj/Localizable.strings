@@ -1,0 +1,40 @@
+/* 
+  Localizable.strings
+  RubiksFifteen3d
+
+  Created by Klemenz, Oliver on 06.12.12.
+
+*/
+"Shuffle" = "Mischen";
+"Solve" = "Lösen";
+"GC" = "GC";
+"Game Center" = "Game Center";
+"FX" = "FX";
+"Sound" = "Sound";
+"Gyro" = "Gyro";
+"Camera" = "Kamera";
+"Stop" = "Stopp";
+"Congratulation" = "Herzlichen Glückwunsch";
+"You solved Magic Fifteen in" = "Du hast Magic Fifteen gelöst in";
+"You solved the back side of Magic Fifteen in" = "Du hast die Rückseite von Magic Fifteen gelöst in";
+"Hour" = "Stunde";
+"Hours" = "Stunden";
+"Minute" = "Minute";
+"Minutes" = "Minuten";
+"Second" = "Sekunde";
+"Seconds" = "Sekunden";
+"OK" = "OK";
+"Cancel" = "Abbrechen";
+"Yes" = "Ja";
+"No" = "Nein";
+"Game Center" = "Game Center";
+"Error connecting to Game Center!" = "Fehler bei der Verbindung zum Game Center!";
+"In-App purchase failed!" = "In-App-Einkauf ist fehlgeschlagen!";
+"The donation was not successful." = "Die Spende war nicht erfolgreich.";
+"Do you like the game \"Magic Fifteen\"?" = "Gefällt dir das Spiel \"Magic Fifteen\"?";
+"Help to make the game better with a donation!" = "Hilf mit einer Spende das Spiel zu verbessern!";
+"I'd like to donate" = "Ich möchte spenden";
+"Remind me later" = "Später erinnern";
+"Don't ask me again" = "Nicht mehr fragen";
+"Please select:" = "Bitte wähle aus:";
+"Thank you for your donation!" = "Danke für deine Spende!";
