@@ -2078,7 +2078,7 @@
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "4A787469-F728-4AC9-9CB9-99CEAD6F40F0";
 				SDKROOT = iphoneos;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				VALID_ARCHS = "i386 armv6 armv7 armv7s";
+				VALID_ARCHS = "$(ARCHS_STANDARD)";
 				WARNING_CFLAGS = "-Wall";
 			};
 			name = Debug;
@@ -2131,7 +2131,7 @@
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "5B237DC4-339E-45C9-B496-72D3B285C922";
 				SDKROOT = iphoneos;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				VALID_ARCHS = "i386 armv6 armv7 armv7s";
+				VALID_ARCHS = "$(ARCHS_STANDARD)";
 				WARNING_CFLAGS = "-Wall";
 			};
 			name = Release;
@@ -2158,7 +2158,7 @@
 				PRODUCT_NAME = RubiksFifteen3d;
 				PROVISIONING_PROFILE = "";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "";
-				VALID_ARCHS = "armv7 armv7s arm64";
+				VALID_ARCHS = "$(ARCHS_STANDARD)";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -2185,7 +2185,7 @@
 				PROVISIONING_PROFILE = "";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "";
 				VALIDATE_PRODUCT = YES;
-				VALID_ARCHS = "armv7 armv7s arm64";
+				VALID_ARCHS = "$(ARCHS_STANDARD)";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
