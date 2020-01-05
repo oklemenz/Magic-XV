@@ -1690,11 +1690,12 @@
 			};
 			buildConfigurationList = 541589391659294F00BD4F03 /* Build configuration list for PBXProject "RubiksFifteen3d" */;
 			compatibilityVersion = "Xcode 3.2";
-			developmentRegion = English;
+			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
 				de,
+				Base,
 			);
 			mainGroup = 541589341659294F00BD4F03;
 			productRefGroup = 541589401659294F00BD4F03 /* Products */;
