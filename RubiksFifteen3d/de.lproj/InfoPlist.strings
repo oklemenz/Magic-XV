@@ -6,3 +6,4 @@
 
 */
 "NSCameraUsageDescription" = "Verwendet als Spielhintergrund";
+"NSPhotoLibraryUsageDescription" = "Verwendet als Spielhintergrund";

@@ -6,3 +6,4 @@
 
 */
 "NSCameraUsageDescription" = "Used as Game Background";
+"NSPhotoLibraryUsageDescription" = "Used as Game Background";
